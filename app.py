@@ -9,8 +9,8 @@ import spacy
 nlp = spacy.load('F:\MODEL_WEIGHTS\model-best\content\model-best')
 
 #Web Scraping Pkgs
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
+# from bs4 import BeautifulSoup
+# from urllib.request import urlopen
 
 import docx2txt
 

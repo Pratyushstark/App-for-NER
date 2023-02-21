@@ -1,5 +1,5 @@
 streamlit
 spacy
 spacy-streamlit
-doc2txt
+docx2txt
 beautifulsoup

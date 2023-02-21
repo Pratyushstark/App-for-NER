@@ -2,4 +2,3 @@ streamlit
 spacy
 spacy-streamlit
 docx2txt
-beautifulsoup
